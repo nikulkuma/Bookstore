@@ -19,7 +19,7 @@ function Banner() {
               pariatur corporis at veniam est voluptas animi!
             </p>
             
-            <label className="input validator w-full">
+            <label className="input validator w-full  dark:bg-slate-900 dark:text-white dark:border-white">
 
   <input type="email" placeholder="mail@site.com" required />
 </label>
